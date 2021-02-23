@@ -2,7 +2,8 @@
 
 // put your own value below!
 // const apiKey = 'AIzaSyCsxk-3l3HMjN4zZFQoOHpMj65lyEA8NW0'; 
-const apiKey = 'AIzaSyAqvNZo4jX8s6yx1dk2vg2A0qth18e_dM4';
+// const apiKey = 'AIzaSyAqvNZo4jX8s6yx1dk2vg2A0qth18e_dM4';
+const apiKey = 'AIzaSyDGKOzZyFJ8UlnWrOkERNKchAixOyT9ZZQ';
 
 const searchURL = 'https://www.googleapis.com/youtube/v3/search';
 
